@@ -44,6 +44,6 @@ val mobileEngineer = MobileEngineer(
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=julsapargi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/julsapargi?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Egi10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Egi10?label=Followers&style=social" alt="Followers" />
 </div>
